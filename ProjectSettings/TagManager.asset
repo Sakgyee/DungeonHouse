@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - VirtualCamera
+  - Enemy
+  - Attack
+  - Talk
+  - Talk1
+  - Talk2
+  - Talk3
+  - Talk4
+  - Talk5
+  - Talk6
+  - Talk7
+  - Talk8
+  - Talk9
+  - Talk10
+  - Bad
+  - Good
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - Object
+  - NPC
+  - 
+  - PlayerDamageed
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
