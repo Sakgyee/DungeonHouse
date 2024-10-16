@@ -14,6 +14,7 @@
 
 # 3. 플레이 영상
 
+https://youtu.be/tLEnkb6LgNQ
 
 # 4. 기능
 ● Tilemap으로 맵을 만들고 Borderline으로 영역을 지정해 캐릭터가 갈 수 있는 곳과 없는 곳을 만들었다.
